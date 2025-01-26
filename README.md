@@ -13,14 +13,14 @@ Ele permite criar clientes, gerenciar contas, realizar depósitos, saques, trans
 
 ⚙️ Funcionalidades
 1. Gerenciamento de Contas:
-  Criação de contas com cliente associado.
-  Listagem de todas as contas cadastradas.
+  - Criação de contas com cliente associado;
+  - Listagem de todas as contas cadastradas.
 
-3. Operações Bancárias
-  Depósito: Adicionar saldo à conta.
-  Saque: Retirar valores, respeitando o saldo e o limite disponível.
-  Transferência: Enviar valores entre contas cadastradas.
-  Consulta de Saldo: Exibir o saldo total de uma conta.
+2. Operações Bancárias
+  - Depósito: Adicionar saldo à conta;
+  - Saque: Retirar valores, respeitando o saldo e o limite disponível;
+  - Transferência: Enviar valores entre contas cadastradas;
+  - Consulta de Saldo: Exibir o saldo total de uma conta.
 
-5. Sistema com Interface Simples
-  Menu interativo no terminal para navegar pelas funcionalidades.
+3. Sistema com Interface Simples
+  - Menu interativo no terminal para navegar pelas funcionalidades.
